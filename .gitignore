@@ -1,0 +1,31 @@
+# Jupyter Book
+_build/
+jupyter_book.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# LaTeX
+.aux
+.log
+.out
+.synctex.gz
+.toc
