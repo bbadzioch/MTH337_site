@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 1b91b11e-e358-4a32-bc79-7e3d922e5a3b
+  title: MTH 337
+  description: MTH 337 course website
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: intro.md  
+  hide_title_block: true
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  logo: "sphere.svg"
