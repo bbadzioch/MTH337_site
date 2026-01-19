@@ -24,74 +24,48 @@ Bernard Badzioch\
 
 ## Learning Outcomes
 
-The goal of this course is to serve as an introduction to scientific computing
-using Python programming language. At the end of the course you should be able to
-use Python and its libraries to perform scientific computation, access, manipulate
-and visualize data, and apply some methods to perform data analysis and modeling.
+This course provides introduction to scientific computing using Python programming 
+language. At the end of the course you should be able to use Python and its libraries 
+to perform scientific computation, access, manipulate and visualize data, and apply 
+some methods to perform data analysis and modeling. The work on the course projects 
+you will also help you improve your technical writing skills. 
 
 
-
-## Prerequisites
-
-
-This course assumes that you have some experience with programming in Python, and
-with such Python libraries as matplotlib or numpy (although we will start the course
-with a review of numpy). I will also assume that you are familiar with Jupyter Notebook:
-code cells, markdown cells etc. If you have not used Jupyter Notebook before, install
-the Anaconda distribution (see below), which Jupyter Notebook is a part of, and get
-acquainted with it. Feel free to let me know if you have any questions.
-
-
-Learning Outcomes
------------------
-
-After taking this course you should be able to:
-
-* Understand various common formats of data (csv, html, xml, json, SQL databases etc.) and how to use them.
-* Manipulate data using such tools as numpy, pandas, json, BeautifulSoup, SQL etc.
-* Visualize data using matplotlib, seaborn and plotly.
-* Apply some machine learning methods to analyze data.
-* Describe in writing results of data exploration and analysis.
-
-Course Resources
-----------------
+## Course Resources
 
 **Laptop.** We will be writing code during all class meetings. For this reason you need 
 to bring a laptop to each class. Any operating system (Windows/Mac/Linux) is fine.
 
-**Software.** We will be using the [Anaconda distribution of Python 3.9](https://www.anaconda.com/products/individual#Downloads).
+**Software.** We will be using the [Anaconda distribution of Python](https://www.anaconda.com/download/success).
 This is free software. Even if you have Python already installed on your computer you should install this
 distribution since it includes Jupyter Notebook and several Python libraries we will need.
 If you have a previous version of Python installed, please upgrade it so you don't run into
 possible compatibility issues.
 
-**Discord server.**  You should have received an invitation link to the MTH 448/548 Discord server in 
-the email with course information. If you don't have this link, let me know.  
+**Piazza.** We be using  [Piazza](https://piazza.com/buffalo/spring2026/mth337b/home) for course-related communications. 
+If you have a question or comment related to the course please post it on Piazza. This will help other students who may 
+face the same issue. If you know the answer to a question somebody else posted on Piazza please answer it.
 
-The Discord server will be used for office hours. Please also use it to post course related questions 
-instead of emailing them to me. This will help other students who may have the same questions. 
-If you notice a question on Discord that you know the answer to, feel free to respond. For personal issues, 
-regarding your grade etc., contact me directly either by email or by a direct message on Discord. 
+If you have a personal question (concerning your grade etc.), you can either send to me a private message on Piazza or 
+contact me by e-mail. 
 
-**Textbook.** There is no required textbook. There are a lot of online resources (documentation
-of Python libraries etc.) that may be helpful in this course. Some of them are listed on
-the :doc:`Useful Links <useful_links>` page.
-
-|UBLearns| will be used for submitting project reports.
-
-.. |UBLearns| raw:: html
-
-   <strong><a href="https://ublearns.buffalo.edu">UBLearns</a> </strong>
+**UBLearns.** In this course UBLearns will be used for submission of project reports only. All other course materials
+will be posted on this website.
 
 
-Grading
--------
+
+## Grading
 
 There will be no exams in this course. Instead, grades will be assigned based on
 the following components:
 
-    * Project Reports 90%
-    * Weekly digests 10%
+| Component  | Weight|
+|---------|----------------|
+| Project Reports | something      |
+| Quizzes  | something else |
+| Weekly Digests | something      |
+
+
 
 
 Project Reports
@@ -144,18 +118,18 @@ I may award extra credit to students who are especially active in the course.
 Incomplete Grades
 ------------------
 
-See the UB Catalog for the `UB Incomplete Policy <https://catalog.buffalo.edu/policies/explanation.html>`_.
+See the UB Catalog for the [UB Incomplete Policy](https://catalog.buffalo.edu/policies/explanation.html).
 
 
 Academic Integrity
 ------------------
 
-See the UB Catalog for the `UB Academic Integrity Policy <https://catalog.buffalo.edu/policies/integrity.html>`_.
+See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html).
 
 
 Accessibility Resources
 -----------------------
 
 If you need accommodations due to a physical or learning disability please contact the
-`UB Accessibility Resources Office <https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html>`_
+[UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html).
 to make appropriate arrangements.
