@@ -1,7 +1,6 @@
-----
-title: Syllabus
-----
-
+---
+title: "MTH 337 Syllabus"
+---
 
 # MTH 337 Syllabus
 

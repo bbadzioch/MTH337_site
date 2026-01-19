@@ -2,8 +2,8 @@
 version: 1
 project:
   id: 1b91b11e-e358-4a32-bc79-7e3d922e5a3b
-  title: MTH 337
-  description: MTH 337 course website
+  title: "MTH 337"
+  description: "MTH 337 course website"
   # keywords: []
   #authors: 
   github: https://github.com/bbadzioch/MTH337_site
@@ -27,6 +27,7 @@ project:
         - file: ./report_guide/report1.md
         - file: ./report_guide/report2.md
         - file: ./report_guide/report3.md
+    - title: SCHEDULE
 
 site:
   template: book-theme
