@@ -5,7 +5,7 @@ project:
   title: MTH 337
   description: MTH 337 course website
   # keywords: []
-  authors: Bernard Badzioch
+  #authors: 
   github: https://github.com/bbadzioch/MTH337_site
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
@@ -16,6 +16,9 @@ project:
           title: Piazza
         - url: https://ublearns.buffalo.edu/d2l/home
           title: UBLearns
+    - file: report_guide.md
+      children:
+        - file: ./report_guide/report6.md
     
     
 site:

@@ -68,8 +68,7 @@ the following components:
 
 
 
-Project Reports
-===============
+## Project Reports
 
 One the main components of this course will be exploratory projects. You will be
 working on them largely independently, using mathematical and computing tools.
@@ -93,10 +92,10 @@ More information about project reports is posted
 :doc:`here <report_guide>`.
 
 
-Weekly digests
-==============
+## Weekly digests
 
-**Weekly digest.** Each week you will be asked to submit
+
+Each week you will be asked to submit
 a short (2-3 sentences) writeup on your study from the previous week.
 For example, you can write:
 
@@ -115,20 +114,20 @@ I may award extra credit to students who are especially active in the course.
 
 
 
-Incomplete Grades
-------------------
+## Incomplete Grades
+
 
 See the UB Catalog for the [UB Incomplete Policy](https://catalog.buffalo.edu/policies/explanation.html).
 
 
-Academic Integrity
-------------------
+## Academic Integrity
+
 
 See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html).
 
 
-Accessibility Resources
------------------------
+## Accessibility Resources
+
 
 If you need accommodations due to a physical or learning disability please contact the
 [UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html).
