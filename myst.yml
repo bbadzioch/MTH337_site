@@ -19,10 +19,25 @@ project:
     - file: report_guide.md
       children:
         - file: ./report_guide/report6.md
-    
-    
+        - file: ./report_guide/report4.md
+        - file: ./report_guide/report7.md
+        - file: ./report_guide/report5.md
+        - file: ./report_guide/report9.md
+        - file: ./report_guide/report8.md
+        - file: ./report_guide/report1.md
+        - file: ./report_guide/report2.md
+
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
   logo: "sphere.svg"
+  options:
+    style: "./_static/custom.css"
+    hide_toc: false
+    hide_footer_links: true
+    hide_outline: false
+    hide_title_block: false
+    hide_authors: true
+    hide_search: false
+    outline_maxdepth: 3
