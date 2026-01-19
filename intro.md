@@ -8,12 +8,11 @@ title: "MTH 337 Syllabus"
 
 ## Class meetings
 
-Tue Thu 9:00-10:40 AM\
+Tue Thu 9:00-10:50 AM\
 250 Mathematics Building 
 
 
 ## Instructor
-
 
 Bernard Badzioch\
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu)\
@@ -58,13 +57,11 @@ will be posted on this website.
 There will be no exams in this course. Instead, grades will be assigned based on
 the following components:
 
-| Component  | Weight|
-|---------|----------------|
-| Project Reports | something      |
-| Quizzes  | something else |
-| Weekly Digests | something      |
-
-
+| Component       | Weight         |
+|-----------------|----------------|
+| Project Reports | 80%            |
+| Quizzes         | 10%            |
+| Weekly Digests  | 10%            |
 
 
 ## Project Reports
@@ -86,9 +83,16 @@ ones. The cumulative grade for all reports will be computed by:
 3. dividing the resulting number by the sum of weights for all reports;
 4. converting the number obtained in step 3 to a letter grade.
 
-Reports will be submitted via UBLearns. Late reports will not be accepted. 
-More information about project reports is posted
-:doc:`here <report_guide>`.
+The lowest report grade will be dropped when computing the cumulative report grade.
+
+Reports will be submitted via UBLearns. Late reports will not be accepted only in 
+case of justified emergencies etc. More information about project reports is posted 
+[here](report_guide.md).
+
+## Quizzes
+
+There will be several short quizzes, mostly testing your knowledge of Python. 
+Quizzes will be announced on the course website ahead of time.
 
 
 ## Weekly digests
@@ -112,22 +116,26 @@ lowered by 2% for each subsequent missed assignment (i.e. from 10% to 8% etc.).
 I may award extra credit to students who are especially active in the course.
 
 
+## AI Policy
+
+Use of AI tools (such as ChatGPT, Gemini, Claude etc.) is not allowed when preparing project 
+reports. Any use of such tools will be considered a violation of UB Academic Integrity Policy.
+In case of questions if you wrote some part of your report yourself, I may ask you to explain
+it in person. 
+
 
 ## Incomplete Grades
 
-
-See the UB Catalog for the [UB Incomplete Policy](https://catalog.buffalo.edu/policies/explanation.html).
+See the UB Catalog for the [UB Incomplete Policy](https://catalogs.buffalo.edu/content.php?catoid=1&navoid=19#incomplete-grades).
 
 
 ## Academic Integrity
 
-
-See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html).
+See the UB Catalog for the [UB Academic Integrity Policy](https://catalogs.buffalo.edu/content.php?catoid=1&navoid=19#academic-integrity).
 
 
 ## Accessibility Resources
 
-
 If you need accommodations due to a physical or learning disability please contact the
-[UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html).
-to make appropriate arrangements.
+[UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html)
+to get help with making appropriate arrangements.

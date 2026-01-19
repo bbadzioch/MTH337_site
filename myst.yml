@@ -10,12 +10,17 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md  
+    - file: current_tasks.md
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
           title: Piazza
         - url: https://ublearns.buffalo.edu/d2l/home
           title: UBLearns
+        - url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+          title: Markdown Cheatsheet
+        - url: https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Symbols
+          title: LaTeX Symbols
     - file: report_guide.md
       children:
         - file: ./report_guide/report6.md
@@ -27,7 +32,16 @@ project:
         - file: ./report_guide/report1.md
         - file: ./report_guide/report2.md
         - file: ./report_guide/report3.md
-    - title: SCHEDULE
+    - file: schedule.md
+      children:
+        - title: Week 1
+          file: ./schedule/week1.md
+    - file: projects.md
+      children:
+        - title: Project 1
+    - title: Tools
+      children:
+        - file: ./python_tools/lists.ipynb
 
 site:
   template: book-theme
