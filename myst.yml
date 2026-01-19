@@ -26,14 +26,14 @@ project:
         - file: ./report_guide/report8.md
         - file: ./report_guide/report1.md
         - file: ./report_guide/report2.md
+        - file: ./report_guide/report3.md
 
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
   logo: "sphere.svg"
   options:
     style: "./_static/custom.css"
+    favicon: "./_static/favicon.ico"
     hide_toc: false
     hide_footer_links: true
     hide_outline: false
