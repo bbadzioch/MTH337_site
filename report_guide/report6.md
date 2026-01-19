@@ -10,8 +10,8 @@ Overall, in this introduction there is no effort to present the topic of the rep
 
 
 
-   <a href = "_static/report_guide_samples/report_sample6a.html">
-   <img src="_static/report_guide_samples/report_sample6a.png">
+   <a href = "../_static/report_guide_samples/report_sample6a.html">
+   <img src="../_static/report_guide_samples/report_sample6a.png">
    </a>
 
 
