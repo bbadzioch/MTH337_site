@@ -21,6 +21,8 @@ project:
           title: Markdown Cheatsheet
         - url: https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Symbols
           title: LaTeX Symbols
+        - url: https://matplotlib.org/stable/api/pyplot_summary.html
+          title: Matplotlib documentation
     - file: report_guide.md
       children:
         - file: ./report_guide/report6.md
