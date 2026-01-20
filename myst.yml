@@ -42,10 +42,13 @@ project:
     - title: Tools
       children:
         - file: ./python_tools/lists.ipynb
+          hidden: true
+        - file: ./python_tools/matplotlib/matplotlib.ipynb
 
 site:
   template: book-theme
-  logo: "sphere.svg"
+  logo: "./_static/logo.png"
+  logo_dark: "./_static/logo_dark.png"
   options:
     style: "./_static/custom.css"
     favicon: "./_static/favicon.ico"
@@ -56,3 +59,4 @@ site:
     hide_authors: true
     hide_search: false
     outline_maxdepth: 3
+

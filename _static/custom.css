@@ -1,8 +1,14 @@
+/* formatting for images in the examples in the report guide */
 .report-guide-img {
     border: 0.5px solid black;
     display: block;
 }
-.report-guide-p p{
-    margin-bottom: 0px;
-    margin-top: 0px;
+
+
+/* This targets the standard output container in Jupyter Book 2 */
+/* to limit the height of output cells and add a scrollbar */
+.myst-jp-stream-output{
+    max-height: 400px;
+    overflow-y: auto !important;
+    display: block !important;
 }
