@@ -116,21 +116,40 @@ lowered by 2% for each subsequent missed assignment (i.e. from 10% to 8% etc.).
 
 I may award extra credit to students who are especially active in the course.
 
-## AI Policy
+## Academic Integrity Policy
+The general policy is that any content - narrative and computer code - you submit must be written by you. 
+If you quote some source in a project report, it must be indicated, providing the source. In case of questions 
+if you wrote some part of a project report yourself, I may ask you to explain it in person. Violations of this 
+policy will result in the zero score on a report, and possibly in additional sanctions (an F course grade, 
+an academic disciplinary action etc.).
 
-Use of AI tools (such as ChatGPT, Gemini, Claude etc.) is not allowed when preparing project 
-reports. Any use of such tools will be considered a violation of UB Academic Integrity Policy.
-In case of questions if you wrote some part of your report yourself, I may ask you to explain
-it in person. 
+### AI Tools
+Use of AI tools (such as ChatGPT, Gemini, Claude etc.) is not allowed when preparing project reports. 
+
+
+### Collaboration
+You are free to discuss projects with your classmates and use online (or other) resources 
+related to Python programming.  However, each project report must be solely your own work: it must be 
+written by you in its entirety, including all computer code.
+
+### External resources
+There are two types of resources that may be relevant. First, there are plenty of books and websites 
+devoted to Python programming. You should take advantage of this. If you have a programming question 
+then in most cases a quick web search will get you an answer. However, you must be able to explain every 
+piece of code you are using. 
+
+Second, most of the projects you will be working on are based on mathematical problems and ideas that 
+are described somewhere. However, you should not start your work on a project by doing a web or library 
+search. The goal of each project is for you to explore a problem on your own. Description of your 
+explorations and experimentation must be the main part of your project report. Projects will be open-ended 
+so there is no “complete solution” you should be looking for. Have fun, explore, and put in the report what 
+you came up with.
+
 
 ## Incomplete Grades
 
 See the UB Catalog for the [UB Incomplete Policy](https://catalogs.buffalo.edu/content.php?catoid=1&navoid=19#incomplete-grades).
 
-
-## Academic Integrity
-
-See the UB Catalog for the [UB Academic Integrity Policy](https://catalogs.buffalo.edu/content.php?catoid=1&navoid=19#academic-integrity).
 
 
 ## Accessibility Resources
