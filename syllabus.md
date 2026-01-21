@@ -39,7 +39,7 @@ This is free software. Even if you have Python already installed on your compute
 distribution since it includes Jupyter Notebook and several Python libraries we will need.
 
 **Piazza.** We be using  [Piazza](https://piazza.com/buffalo/spring2026/mth337b/home) for course-related communications. 
-If you have a question or comment related to the course please post it on Piazza. This will help other students who may 
+If you have a question or comment related to the course, please post it on Piazza. This will help other students who may 
 face the same issue. If you know the answer to a question somebody else posted on Piazza, please answer it.
 
 If you have a personal question (concerning your grade etc.), you can either send to me a private message on Piazza or 
@@ -77,13 +77,12 @@ Each report will be graded on the A-F scale. Extra credit (a grade of A+) may
 be assigned for an outstanding work. Some projects will require more effort than
 others. To reflect it, each project will have a weight of up to 10 points,
 with 10 points for more work-intensive projects, and fewer points for shorter
-ones. The cumulative grade for all reports will be computed by:
+ones. 
 
-1. converting the letter grade for each report into credits (A = 4.0, A- = 3.67, B+ = 3.33 etc.);
-2. multiplying credits for each report by the report weight and adding all these
-   products;
-3. dividing the resulting number by the sum of weights for all reports;
-4. converting the number obtained in step 3 to a letter grade.
+Reports will be submitted via UBLearns. Late reports will be accepted up to two 
+days after the submission deadline with 15% score reduction for each started day. 
+The lowest report grade will be dropped when computing the final course grade. 
+For more information about project reports, see the course website.
 
 The lowest report grade will be dropped when computing the cumulative report grade.
 
@@ -110,7 +109,7 @@ on your study from the previous week. For example, you can write:
 
 You will be also asked to submit a question (or questions) regarding the course.
 
-You can receive up to 10% credit for these writeups. You can miss one
+You can receive up to 10% credit for these write-ups. You can miss one
 such assignment without loosing any credit, but your weekly digest credit will be
 lowered by 2% for each subsequent missed assignment (i.e. from 10% to 8% etc.).
 
