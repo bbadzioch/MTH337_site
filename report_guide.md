@@ -34,6 +34,17 @@ attribution are an instance of plagiarism. Long quotes - e.g. using a few paragr
 from Wikipedia for the report introduction - will decrease the value of your report,
 even if they are attributed.
 
+Most of the projects you will be working on are based on mathematical problems and ideas 
+that are described somewhere. However, you should not start your work on a project by doing 
+a web or library search. The goal of each project is for you to explore a problem on your own. 
+Description of your explorations and experimentation must be the main part of your project report. 
+It is fine to include some background information on the project (properly referencing books and 
+websites it comes from) but it is not necessary, and you can get a perfect score without it. Moreover, 
+projects are open-ended so there is no “complete solution” you should be looking for. Have fun, explore, 
+and put in the report what you came up with.
+
+
+
 ## Using AI tools
 
 Use of AI tools (such as ChatGPT, Gemini, Claude etc.) is not allowed when preparing project 
