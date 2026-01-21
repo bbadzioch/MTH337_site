@@ -9,7 +9,7 @@ project:
   github: https://github.com/bbadzioch/MTH337_site
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - file: intro.md  
+    - file: syllabus.md  
     - file: current_tasks.md
     - title: Useful Links
       children:
@@ -21,8 +21,8 @@ project:
           title: Markdown Cheatsheet
         - url: https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Symbols
           title: LaTeX Symbols
-        - url: https://matplotlib.org/stable/api/pyplot_summary.html
-          title: Matplotlib documentation
+        #- url: https://matplotlib.org/stable/api/pyplot_summary.html
+        #  title: Matplotlib documentation
     - file: report_guide.md
       children:
         - file: ./report_guide/report6.md
@@ -34,24 +34,26 @@ project:
         - file: ./report_guide/report1.md
         - file: ./report_guide/report2.md
         - file: ./report_guide/report3.md
-    - file: schedule.md
+    - title: Schedule
       children:
-        - title: Week 1
-          file: ./schedule/week1.md
+        - file: ./schedule/week1.md
+          title: Week 1
     - file: projects.md
       children:
-        - title: Project 1
-    - title: Tools
+      # - file: ./projects/collatz/collatz.ipynb
+    - title: Python Tools
       children:
-        - file: ./python_tools/lists.ipynb
-          hidden: true
-        - file: ./python_tools/matplotlib/matplotlib.ipynb
+      - file: ./python_tools/importing_modules.ipynb
+      #  - file: ./python_tools/lists.ipynb
+      #    hidden: false
+      #  - file: ./python_tools/functions.ipynb
+      #  - file: ./python_tools/matplotlib/matplotlib.ipynb
 
 site:
   template: book-theme
-  logo: "./_static/logo.png"
-  logo_dark: "./_static/logo_dark.png"
   options:
+    logo: "./_static/logo.png"
+    logo_dark: "./_static/logo_dark.png"
     style: "./_static/custom.css"
     favicon: "./_static/favicon.ico"
     hide_toc: false

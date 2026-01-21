@@ -9,13 +9,13 @@ title: "MTH 337 Syllabus"
 ## Class meetings
 
 Tue Thu 9:00-10:50 AM\
-250 Mathematics Building 
+150 Mathematics Building 
 
 
 ## Instructor
 
 Bernard Badzioch\
-**E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu)\
+**E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH%20337)\
 **Office:** 108 Mathematics Building\
 **Office Hours:** Thu 2:00-4:00 PM, and by appointment
 
@@ -24,25 +24,23 @@ Bernard Badzioch\
 
 This course provides introduction to scientific computing using Python programming 
 language. At the end of the course you should be able to use Python and its libraries 
-to perform scientific computation, access, manipulate and visualize data, and apply 
+to perform scientific computations, access, manipulate and visualize data, and apply 
 some methods to perform data analysis and modeling. The work on the course projects 
 you will also help you improve your technical writing skills. 
 
 
 ## Course Resources
 
-**Laptop.** We will be writing code during all class meetings. For this reason you need 
+**Laptop.** We will be writing code during all class meetings. For this reason, you need 
 to bring a laptop to each class. Any operating system (Windows/Mac/Linux) is fine.
 
 **Software.** We will be using the [Anaconda distribution of Python](https://www.anaconda.com/download/success).
-This is free software. Even if you have Python already installed on your computer you should install this
+This is free software. Even if you have Python already installed on your computer, you should install Anaconda
 distribution since it includes Jupyter Notebook and several Python libraries we will need.
-If you have a previous version of Python installed, please upgrade it so you don't run into
-possible compatibility issues.
 
 **Piazza.** We be using  [Piazza](https://piazza.com/buffalo/spring2026/mth337b/home) for course-related communications. 
 If you have a question or comment related to the course please post it on Piazza. This will help other students who may 
-face the same issue. If you know the answer to a question somebody else posted on Piazza please answer it.
+face the same issue. If you know the answer to a question somebody else posted on Piazza, please answer it.
 
 If you have a personal question (concerning your grade etc.), you can either send to me a private message on Piazza or 
 contact me by e-mail. 
@@ -50,18 +48,22 @@ contact me by e-mail.
 **UBLearns.** In this course UBLearns will be used for submission of project reports only. All other course materials
 will be posted on this website.
 
-
+**Textbook.** There is no required textbook for this course. Some useful resources will be posted under "Useful Links"
+on the course website. 
 
 ## Grading
 
-There will be no exams in this course. Instead, grades will be assigned based on
-the following components:
+There will be no exams in this course. Grades will be assigned based on the following components:
+
+<div style="max-width: 50%;">
 
 | Component       | Weight         |
 |-----------------|----------------|
-| Project Reports | 80%            |
-| Quizzes         | 10%            |
+| Project Reports | 75%            |
+| Quizzes         | 15%            |
 | Weekly Digests  | 10%            |
+
+</div>
 
 
 ## Project Reports
@@ -89,6 +91,7 @@ Reports will be submitted via UBLearns. Late reports will not be accepted only i
 case of justified emergencies etc. More information about project reports is posted 
 [here](report_guide.md).
 
+
 ## Quizzes
 
 There will be several short quizzes, mostly testing your knowledge of Python. 
@@ -97,10 +100,8 @@ Quizzes will be announced on the course website ahead of time.
 
 ## Weekly digests
 
-
-Each week you will be asked to submit
-a short (2-3 sentences) writeup on your study from the previous week.
-For example, you can write:
+Each week you will be asked to submit a short (1-3 sentences) writeup 
+on your study from the previous week. For example, you can write:
 
 * what topics you have found interesting (or boring)
 * what topics you have found difficult (or easy)
@@ -115,14 +116,12 @@ lowered by 2% for each subsequent missed assignment (i.e. from 10% to 8% etc.).
 
 I may award extra credit to students who are especially active in the course.
 
-
 ## AI Policy
 
 Use of AI tools (such as ChatGPT, Gemini, Claude etc.) is not allowed when preparing project 
 reports. Any use of such tools will be considered a violation of UB Academic Integrity Policy.
 In case of questions if you wrote some part of your report yourself, I may ask you to explain
 it in person. 
-
 
 ## Incomplete Grades
 
@@ -139,3 +138,4 @@ See the UB Catalog for the [UB Academic Integrity Policy](https://catalogs.buffa
 If you need accommodations due to a physical or learning disability please contact the
 [UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html)
 to get help with making appropriate arrangements.
+

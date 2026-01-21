@@ -1,4 +1,4 @@
-# Example: Code sequencing
+# Code sequencing
 
 
 **Bad:** In the code below the function ``ball_height()`` first appears before it is defined.

@@ -1,11 +1,9 @@
-# Example: Report introduction
+# Report introduction
 
 
 **Bad:** The introduction talks about twin primes without explaining what they are.
-It lists tasks of the report without providing any context. Moreover, the emphasis of
-these tasks is on explaining the Python code included in the report. This is wrong: the main
-goal of a report is to research a topic using Python as a tool, not to write some Python code.
-Overall, in this introduction there is no effort to present the topic of the report in an interesting way.
+It lists tasks of the report without providing any context. In this introduction there 
+is no effort to present the topic of the report in an interesting way.
 
 :::{figure}../_static/report_guide_samples/report_sample6a.png
 :alt: Bad report introduction example
@@ -13,7 +11,9 @@ Overall, in this introduction there is no effort to present the topic of the rep
 :::
 
 
-**Good:**
+**Good:** The introduction is written in an engaging way. It introduces the reader 
+to the topic of twin primes by explaining what they are,and why they are interesting. 
+This provides context for the tasks of the report. 
 
 :::{figure}../_static/report_guide_samples/report_sample6b.png
 :alt: Bad report introduction example

@@ -1,9 +1,10 @@
 
 
-# Example: Execution errors
+# Execution errors
 
 
-**Bad:** Code is incorrect and produces an error message.
+**Bad:** The code below is incorrect and produces an error message.
+In a report, all code should run without errors.
 
 
 :::{figure}../_static/report_guide_samples/report_sample8a.png

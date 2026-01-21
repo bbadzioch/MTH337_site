@@ -5,10 +5,22 @@
 }
 
 
-/* This targets the standard output container in Jupyter Book 2 */
+/* This targets the standard output containers in Jupyter Book 2 */
 /* to limit the height of output cells and add a scrollbar */
-.myst-jp-stream-output{
+.myst-jp-stream-output {
     max-height: 400px;
     overflow-y: auto !important;
     display: block !important;
+}
+
+.myst-jp-safe-output-text {
+    max-height: 400px;
+    overflow-y: auto !important;
+    display: block !important;
+}
+
+
+.myst-jp-nb-block p{
+    margin-top: 0px;
+    margin-bottom: 0px;
 }

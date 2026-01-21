@@ -4,7 +4,6 @@
 
 - Syllabus and class organization
 
-
 ## Jupyter Notebook
 
 - Working with files and folder
@@ -16,12 +15,12 @@
 
 ## Python
 
--  Basic mathematical operations
+- Basic mathematical operations
 - Numbers in Python: integers and floats
 - Variable assignment
 - The `print()` function
 - Strings and string formatting
-- Importing modules
-- Boolean expressions
-- The `if` statement
-- Lists, ranges and "for" loops
+% - Importing modules
+% - Boolean expressions
+% - The `if` statement
+% - Lists, ranges and "for" loops
