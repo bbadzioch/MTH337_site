@@ -1,5 +1,7 @@
 # Week 1
 
+[**Notebook from this week**](week1.ipynb)  
+
 ## Logistics
 
 - Syllabus and class organization
@@ -20,7 +22,10 @@
 - Variable assignment
 - The `print()` function
 - Strings and string formatting
-% - Importing modules
-% - Boolean expressions
-% - The `if` statement
-% - Lists, ranges and "for" loops
+- Importing modules
+
+
+
+
+
+

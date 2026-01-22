@@ -19,7 +19,7 @@ project:
           title: UBLearns
         - url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
           title: Markdown Cheatsheet
-        - url: https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Symbols
+        - url: https://ia.wikipedia.org/wiki/Wikipedia:LaTeX_symbols
           title: LaTeX Symbols
         #- url: https://matplotlib.org/stable/api/pyplot_summary.html
         #  title: Matplotlib documentation
@@ -36,8 +36,10 @@ project:
         - file: ./report_guide/report3.md
     - title: Schedule
       children:
-        - file: ./schedule/week1.md
-          title: Week 1
+        - file: ./schedule/week1/week1.md
+          children:
+            - file: ./schedule/week1/week1.ipynb
+              hidden: true
     - file: projects.md
       children:
       # - file: ./projects/collatz/collatz.ipynb
