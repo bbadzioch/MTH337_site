@@ -8,21 +8,20 @@
 
 ## Jupyter Notebook
 
-- Working with files and folder
-- Code cells and markdown cells
-- Markdown basics
-- LaTeX
-- Copying/deleting/moving cells
+- Working with files and folder.
+- Code cells and markdown cells.
+- Markdown basics.
+- Copying/deleting/moving cells.
 
 
 ## Python
 
-- Basic mathematical operations
-- Numbers in Python: integers and floats
-- Variable assignment
-- The `print()` function
-- Strings and string formatting
-- Importing modules
+- Basic mathematical operations.
+- Numbers in Python: integers and floats.
+- Variable assignment.
+- The `print()` function.
+- Strings and string formatting.
+- [Importing modules](../../python_tools/importing_modules.ipynb).
 
 
 
