@@ -38,18 +38,18 @@ project:
       children:
         - file: ./schedule/week1/week1.md
           children:
-            - file: ./schedule/week1/week1.ipynb
+            - file: ./schedule/week1/week1_notebook.ipynb
               hidden: true
+        - file: ./schedule/week2/week2.ipynb
     - file: projects.md
       children:
       # - file: ./projects/collatz/collatz.ipynb
     - title: Python Tools
       children:
-      - file: ./python_tools/importing_modules.ipynb
-      #  - file: ./python_tools/lists.ipynb
-      #    hidden: false
-      #  - file: ./python_tools/functions.ipynb
-      #  - file: ./python_tools/matplotlib/matplotlib.ipynb
+       - file: ./python_tools/importing_modules.ipynb
+       - file: ./python_tools/lists.ipynb
+       - file: ./python_tools/functions.ipynb
+       - file: ./python_tools/matplotlib/matplotlib.ipynb
 
 site:
   template: book-theme
