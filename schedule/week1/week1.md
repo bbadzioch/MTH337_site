@@ -1,6 +1,6 @@
 # Week 1
 
-[**Notebook from this week**](week1.ipynb)  
+[**Notebook from this week**](week1_notebook.ipynb)  
 
 ## Logistics
 
