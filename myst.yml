@@ -41,9 +41,9 @@ project:
             - file: ./schedule/week1/week1_notebook.ipynb
               hidden: true
         - file: ./schedule/week2/week2.ipynb
-    - file: projects.md
+    - title: Projects
       children:
-      # - file: ./projects/collatz/collatz.ipynb
+        - file: ./projects/collatz/collatz.ipynb
     - title: Python Tools
       children:
        - file: ./python_tools/importing_modules.ipynb

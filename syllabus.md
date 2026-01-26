@@ -94,7 +94,8 @@ case of justified emergencies etc. More information about project reports is pos
 ## Quizzes
 
 There will be several short quizzes, mostly testing your knowledge of Python. 
-Quizzes will be announced on the course website ahead of time.
+Quizzes will be announced on the course website ahead of time. The lowest quiz 
+score will be dropped when computing the final grade.
 
 
 ## Weekly digests
