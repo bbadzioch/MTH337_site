@@ -19,8 +19,18 @@
     display: block !important;
 }
 
+/* This targets the code cell containers in Jupyter Book 2 */
+/* to limit the height of output cells and add a scrollbar */
+pre.myst-code-body {
+    max-height: 600px;
+    overflow-y: auto;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+}
+
 
 .myst-jp-nb-block p{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+

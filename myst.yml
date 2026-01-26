@@ -21,8 +21,8 @@ project:
           title: Markdown Cheatsheet
         - url: https://ia.wikipedia.org/wiki/Wikipedia:LaTeX_symbols
           title: LaTeX Symbols
-        #- url: https://matplotlib.org/stable/api/pyplot_summary.html
-        #  title: Matplotlib documentation
+        - url: https://matplotlib.org/stable/api/pyplot_summary.html
+          title: Matplotlib documentation
     - file: report_guide.md
       children:
         - file: ./report_guide/report6.md
@@ -49,7 +49,19 @@ project:
        - file: ./python_tools/importing_modules.ipynb
        - file: ./python_tools/lists.ipynb
        - file: ./python_tools/functions.ipynb
-       - file: ./python_tools/matplotlib/matplotlib.ipynb
+       - file: ./python_tools/matplotlib.ipynb
+       - file: ./python_tools/numpy_arrays.ipynb
+         hidden: true
+       - file: ./python_tools/numpy_multidim.ipynb
+         hidden: true
+       - file: ./python_tools/numpy_boolean.ipynb
+         hidden: true
+       - file: ./python_tools/numpy_fancy_indexing.ipynb
+         hidden: true
+       - file: ./python_tools/matplotlib_subplots.ipynb
+         hidden: true
+       - file: ./python_tools/matplotlib_patches.ipynb
+         hidden: true
 
 site:
   template: book-theme
