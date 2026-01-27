@@ -41,6 +41,9 @@ project:
             - file: ./schedule/week1/week1_notebook.ipynb
               hidden: true
         - file: ./schedule/week2/week2.ipynb
+          children:
+            - file: ./schedule/week1/week1_notebook.ipynb
+              hidden: true
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
