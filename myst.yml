@@ -51,6 +51,7 @@ project:
       children:
        - file: ./python_tools/importing_modules.ipynb
        - file: ./python_tools/lists.ipynb
+       - file: ./python_tools/mutable_vs_immutable/mutable_vs_immutable.ipynb
        - file: ./python_tools/functions.ipynb
        - file: ./python_tools/matplotlib.ipynb
        - file: ./python_tools/numpy_arrays.ipynb
