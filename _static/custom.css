@@ -4,6 +4,11 @@
     display: block;
 }
 
+.custom-no-v-margin {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 
 /* This targets the standard output containers in Jupyter Book 2 */
 /* to limit the height of output cells and add a scrollbar */
