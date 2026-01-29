@@ -11,6 +11,19 @@ project:
   toc:
     - file: syllabus.md  
     - file: current_tasks.md
+    - title: Schedule
+      children:
+        - file: ./schedule/week1/week1.md
+          children:
+            - file: ./schedule/week1/week1_notebook.ipynb
+              hidden: true
+        - file: ./schedule/week2/week2.ipynb
+          children:
+            - file: ./schedule/week2/week2_notebook.ipynb
+              hidden: true
+    - title: Projects
+      children:
+        - file: ./projects/collatz/collatz.ipynb
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
@@ -34,24 +47,12 @@ project:
         - file: ./report_guide/report1.md
         - file: ./report_guide/report2.md
         - file: ./report_guide/report3.md
-    - title: Schedule
-      children:
-        - file: ./schedule/week1/week1.md
-          children:
-            - file: ./schedule/week1/week1_notebook.ipynb
-              hidden: true
-        - file: ./schedule/week2/week2.ipynb
-          children:
-            - file: ./schedule/week2/week2_notebook.ipynb
-              hidden: true
-    - title: Projects
-      children:
-        - file: ./projects/collatz/collatz.ipynb
     - title: Python Tools
       children:
        - file: ./python_tools/importing_modules.ipynb
        - file: ./python_tools/lists.ipynb
        - file: ./python_tools/mutable_vs_immutable/mutable_vs_immutable.ipynb
+       - file: ./python_tools/list_comprehensions.ipynb
        - file: ./python_tools/functions.ipynb
        - file: ./python_tools/matplotlib.ipynb
        - file: ./python_tools/numpy_arrays.ipynb
