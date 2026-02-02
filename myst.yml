@@ -73,7 +73,6 @@ project:
 site:
   template: book-theme
   options:
-    folders: true # preserve folder structure in URLs
     logo: "./_static/logo.png"
     logo_dark: "./_static/logo_dark.png"
     style: "./_static/custom.css"
