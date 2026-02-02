@@ -70,10 +70,10 @@ project:
          hidden: true
        - file: ./python_tools/matplotlib_patches.ipynb
          hidden: true
-
 site:
   template: book-theme
   options:
+    folders: true
     logo: "./_static/logo.png"
     logo_dark: "./_static/logo_dark.png"
     style: "./_static/custom.css"
