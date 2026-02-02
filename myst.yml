@@ -21,6 +21,9 @@ project:
           children:
             - file: ./schedule/week2/week2_notebook.ipynb
               hidden: true
+            - file: ./digests/digest_1.md
+              hidden: true
+        - file: ./schedule/week3/week3.ipynb
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
@@ -56,9 +59,9 @@ project:
        - file: ./python_tools/functions.ipynb
        - file: ./python_tools/matplotlib.ipynb
        - file: ./python_tools/numpy_arrays.ipynb
-         hidden: true
+         hidden: false
        - file: ./python_tools/numpy_multidim.ipynb
-         hidden: true
+         hidden: false
        - file: ./python_tools/numpy_boolean.ipynb
          hidden: true
        - file: ./python_tools/numpy_fancy_indexing.ipynb
