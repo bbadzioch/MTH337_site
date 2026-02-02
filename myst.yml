@@ -63,7 +63,7 @@ project:
        - file: ./python_tools/numpy_multidim.ipynb
          hidden: false
        - file: ./python_tools/numpy_boolean.ipynb
-         hidden: true
+         hidden: false
        - file: ./python_tools/numpy_fancy_indexing.ipynb
          hidden: true
        - file: ./python_tools/matplotlib_subplots.ipynb
