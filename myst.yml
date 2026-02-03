@@ -24,6 +24,9 @@ project:
             - file: ./digests/digest_1.md
               hidden: true
         - file: ./schedule/week3/week3.ipynb
+          children:
+            - file: ./schedule/week3/week3_notebook.ipynb
+              hidden: true
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
