@@ -27,6 +27,7 @@ project:
           children:
             - file: ./schedule/week3/week3_notebook.ipynb
               hidden: true
+        - file: ./schedule/week4/week4.ipynb
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
@@ -75,6 +76,7 @@ project:
          hidden: true
        - file: ./python_tools/matplotlib_patches.ipynb
          hidden: true
+       - file: ./python_tools/image_processing/image_processing.ipynb
 site:
   template: book-theme
   options:
