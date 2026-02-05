@@ -30,6 +30,8 @@ project:
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
+        - file: ./projects/denoising/denoising.ipynb
+          hidden: true
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
