@@ -171,7 +171,7 @@ Is LaTeX formatting applicable outside of python or does notation differ in othe
 $\LaTeX$ is not a part of Python. It is a typesetting system commonly used in disciplines that use 
 a lot of mathematical formulas (math, physics, engineering, computer science etc.). $\LaTeX$ syntax 
 is also used in some other contexts, e.g. in markdown cells in Jupyter Notebook (this is what I showed in class)
-or in Piazza posts. As a side note, $\LaTeX$ is also a programming language on its own right - 
+or in Piazza posts. As a side note, $\LaTeX$ is also a programming language of its own right - 
 one can write programs using $\LaTeX$. 
 
 <br/><br/>
