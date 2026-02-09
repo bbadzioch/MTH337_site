@@ -1,113 +1,177 @@
-# Weekly digest 1
+# Weekly digest 2
 
-## Rodrigo
-
-:::{epigraph}
-There isn't a deadline for the first project yet. How are deadlines determined? 
-Will some projects have a set deadline as they are introduced?
-:::
-
-I will usually post projects descriptions initially without deadlines, so they can serve 
-as a reference to what we are working on. We will then go through some tools 
-and exercises related to the project. Once we will finish this background 
-work, I will set the deadline for the project. You will then have a week or so 
-to finish the work on the project, write a report, and submit it.
-
-
-## Alyssa
+## Daniel
 
 :::{epigraph}
-How complex will this course get? I know coding could be very difficult when you get more in depth, 
-I was wondering how far this course will take us.
+Does the Collatz sequences require us to make new code or can we just use code 
+we've made in class?
 :::
 
-As the course progresses, we will be covering more programming tools, but we will not get 
-into very complex coding topics. The goal of this course is to give you practical experience 
-how to use programming as a tool for scientific computing and data analysis. 
-With Python, it is possible to accomplish a lot with relatively simple code.
+What code you will need, depends on what you want to include in your project report. 
+You can use the code written in class, but you may also need to add additional code
+that you write on your own. 
 
-## Jaimie
+
+## Christian
 
 :::{epigraph}
-In what instance would you use a tuple vs. a list and vice versa? 
+What is the most difficult or challenging topic that we will cover in this course?
 :::
 
-The difference between tuples and lists is that lists can be modified after they 
-are created - they can be made longer or shorter, and their elements can be changed.
-Tuples, on the other hand, can't be changed once they are created.
-
-Lists are useful when we are creating a collection of objects and we don't know 
-in advance how many objects we will have or what will be these objects. For example, 
-when we are computing a Collatz sequence, we don't know how many numbers will be in 
-the sequence ahead of time - we just keep adding numbers to a list until we reach 1.
-
-Tuples are useful for storing data that should not change throughout the program. 
-For example, in a program that processes data of some people, it makes sense to store 
-the name, the date of birth, and the address of each person as a tuple. This assures 
-that this data can be accessed, but it will not be accidentally modified by the program. 
+I don't think that there will be a specific topic much more difficult than the rest. 
 
 
 ## Alan
 
 :::{epigraph}
-Can we get a concrete due date or some better directions for the collatz sequence project? 
-So far, the page says we should only pick "a few" of the questions to answer. How many is a few? 
-Also, I understand that we need to keep a rigorous pace in this course, but could you spend 
-a little more time explaining the logic and ordering of the longer functions that we're writing? 
-I seem to be struggling to understand why some lines go in certain places and not others. 
+Could you please give us some more direction on what to do in the report? Perhaps 
+either by posting the example reports you showed in class or making your own sample 
+report of a different topic? 
 :::
 
-I will talk this week about the Collatz projects and expectations on projects reports. 
-I will try to spend more time explaining the code, but if you feel uncertain or have any 
-questions, please interrupt me at any time and ask. If you have a question after class, 
-post it on Piazza. I can also help either after class or during my office hours too. 
+I explained what I would like to see in these reports in class on Tuesday. If you have 
+some specific questions, let me know. See also the Project Report Guide posted on the 
+course website. At the end of the guide there are links to some Jupyter notebooks files, 
+that have the general structure that I would expect to see in a good report. A couple of 
+these notebooks are much longer that a report should be, but the one on news categorization 
+is of a reasonable length. The general expectation is that you should do some explorations 
+of the project and describe them in a clear and interesting way. 
+
+
+
+## Erica
+
+:::{epigraph}
+Can you post on UBLearns when all of our projects for the semester are due, or are projects 
+due around three weeks after new material is learned?
+:::
+
+
+In general, a report should be due every other week. I don't want to post all due dates 
+up front, since some material may take more (or less) time than I expect, and that will 
+affect when the corresponding report will be due.
+
+
+## Jaimie
+
+:::{epigraph}
+The Collatz project seems to be very open in the sense that you gave us many suggestions to research 
+and include in our code. Will all projects be this way? 
+:::
+
+Some projects may be more specific, but the general idea is, that projects in this course 
+should give you an opportunity to explore something on your own. Thus, they are open-ended 
+by design. 
+
+
+## Shane
+
+:::{epigraph}
+When running a code produces an error, is there any specific easy way to read the error for a fix 
+as sometimes I will read the error and not exactly know what was wrong with what I typed?
+:::
+
+Error messages are helpful, but it is not always easy to figure out from an error message what 
+exactly went wrong and how to fix it. Also, an error message will indicate the line of code 
+where the error was encountered, but sometimes the real reason for the error will be in 
+a different part of the code. Many errors are caused by typos and they are easy to spot, 
+but some errors are tricky to figure out and may require some thinking and experimentation. 
 
 
 ## Ryan
 
 :::{epigraph}
-In what way are we going to use python code to implement mathematical functions? 
-What mathematical theories or functions are we to be implementing into our code?
+What are multidimensional Numpy Arrays and in what ways can I implement them in order to help 
+me with the first project?
 :::
 
-It will go similarly to what we have been doing so far. We will be working on various
-projects related to mathematics and its applications, and we will use Python to perform 
-computations that let us explore these projects. 
+I will explain what numpy arrays (including multidimensional ones) are in class this week. 
+They are not needed for the first project, but they will be needed for the next one. 
 
 
-## Daniel
+## Jenna
 
 :::{epigraph}
-When is the first project report due?
+How much time do you recommend taking to work on the first project?
 :::
 
-We will see how far we get on Tuesday. You will always have at least a week after I announce 
-the project due date to finish the work and write the report. 
+It should be doable in 3-4 hours, but it may take more or less time depending what you decide 
+to include, your coding background etc. 
+
+
+## Brianna
+
+:::{epigraph}
+The only question I can think of for now is how can someone learning java equate python and 
+java to make it easier for them to learn it? What's similar/what's different?
+:::
+
+Java can be somewhat more difficult to get started with than Python. For example, in Java each 
+variable must be declared with the type of data it will store. A variable which is created 
+to store e.g. integers cannot be used to store floats. Python is more user-friendly in this respect. 
+Also, typically Python will require less code than Java to perform the same task. On the other 
+hand, Java code in general will run faster (but there are ways to speed up Python code too...). 
+
+The basic structures (variables, functions, loops, if statements etc.) work the same way in 
+almost all programming languages, so if you know one of them, it is much easier to learn 
+other ones. 
+
+
+## Henry
+
+:::{epigraph}
+How is python used in different careers?
+:::
+
+Python is a general purpose language, so technically it can be used for any task. It is very popular 
+in data science, machine learning and AI. It is very frequently used in scientific computing. 
+It has good tools for backend web development. On the other hand, other languages are much more 
+common in some other areas  - e.g. for creating mobile apps or high-performance games.
+
+
+## Andrew
+
+:::{epigraph}
+How many projects are planned for the semester?
+:::
+
+I think around 6, but it will depend on how much time we will need on each of them. 
+Some things may take either more or less time that I plan, and I will adjust the schedule 
+as needed.
+
+
+## Chloe
+
+:::{epigraph}
+Do we have a final exam?
+:::
+
+No, there are no exams in this course (aside from quizzes).
 
 
 ## Berkley
 
 :::{epigraph}
-What does the Jupyter notebook allow us to do that other programs can't? How are Collatz sequences 
-used in real life situations? Is there a way can we apply the Collatz sequence to help answer 
-math-related questions?
+Will the Collatz Sequence project require any graphs? Additionally, will there be any topics 
+that need to be researched outside of class, or are we only including things we've worked on together?
 :::
 
-Most code editors allow one to write and run code. Jupyter notebooks are useful, because they
-allow us to combine code, text, and images in one document. 
 
-I don't know of any real-life applications of Collatz sequences. They are a mathematical puzzle
-that seems very simple, but has been unsolved for a long time. If we will know how to solve 
-problems like this, then we may be able to use similar ideas to solve real-life problems.
+For the Collatz project some plots would be useful to illustrate computations. 
+Projects reports are open-ended. You are not required to do deep research outside the class, 
+but including something that that you did on your own can add value to the report. 
 
 
-## Pierce
+## Aidan
 
 :::{epigraph}
-How will we be incorporating the use of python and jupyter for math in this course? 
+Is LaTeX formatting applicable outside of python or does notation differ in other coding languages?
 :::
 
-It will go similarly to what we have been doing so far. We will be working on various
-projects related to mathematics and its applications, and we will use Python to perform 
-computations that let us explore these projects. 
+$\LaTeX$ is not a part of Python. It is a typesetting system commonly used in disciplines that use 
+a lot of mathematical formulas (math, physics, engineering, computer science etc.). $\LaTeX$ syntax 
+is also used in some other contexts, e.g. in markdown cells in Jupyter Notebook (this is what I showed in class)
+or in Piazza posts. As a side note, $\LaTeX$ is also a programming language on its own right - 
+one can write programs using $\LaTeX$. 
 
+<br/><br/>
