@@ -37,9 +37,9 @@ project:
               hidden: true
         - file: ./schedule/week5/week5.ipynb
           children:
-          #  - file: ./schedule/week4/week4_notebook.ipynb
-          #    hidden: true
-          #  - file: ./digests/digest_3.md
+            - file: ./schedule/week5/week5_notebook.ipynb
+              hidden: true
+          #  - file: ./digests/digest_4.md
           #    hidden: true
     - title: Projects
       children:
