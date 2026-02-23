@@ -39,13 +39,15 @@ project:
           children:
             - file: ./schedule/week5/week5_notebook.ipynb
               hidden: true
-          #  - file: ./digests/digest_4.md
-          #    hidden: true
+            - file: ./digests/digest_4.md
+              hidden: true
+        - file: ./schedule/week6/week6.ipynb
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
         - file: ./projects/denoising/denoising.ipynb
-          hidden: false
+        - file: ./projects/epidemic/epidemic.ipynb
+          hidden: true
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
@@ -79,7 +81,6 @@ project:
        - file: ./python_tools/matplotlib.ipynb
        - file: ./python_tools/image_processing/image_processing.ipynb
        - file: ./python_tools/matplotlib_subplots.ipynb
-         hidden: true
        - file: ./python_tools/matplotlib_patches.ipynb
          hidden: true
        - title: Numpy
