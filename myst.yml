@@ -52,7 +52,6 @@ project:
         - file: ./projects/collatz/collatz.ipynb
         - file: ./projects/denoising/denoising.ipynb
         - file: ./projects/epidemic/epidemic.ipynb
-          hidden: true
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
