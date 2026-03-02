@@ -23,7 +23,7 @@ If you have any questions about the sample quiz, I will go over them before the 
 
 **What is covered:**
 
-- Numpy arrays: shape, mean, median.
-- Boolean numpy arrays.
+- Numpy arrays: mean, median, operations along axes, `triu`, `tril`, transpose.
+- Matplotlib subplots.
 
 
