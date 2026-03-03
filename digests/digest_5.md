@@ -26,7 +26,7 @@ How many weeks are we going to spend doing this next project on epidemics?
 
 It should take 2 or 3 more lectures.
 
-## Joseph
+## Erica
 
 :::{epigraph}
 - Why does taking b + b.T automatically produce a symmetric matrix? 
