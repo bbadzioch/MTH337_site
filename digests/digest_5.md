@@ -126,7 +126,7 @@ There are many methods. Which one is the best depends e.g. on what kind of noise
 mitigate - salt and pepper, RVI, Gaussian, speckle etc. 
 
 
-## Henry
+## Berkley
 
 :::{epigraph}
 Besides diseases, are there any other real-world situations we can use node/edge models for?
