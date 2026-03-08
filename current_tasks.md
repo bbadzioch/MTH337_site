@@ -1,4 +1,4 @@
- # Current Tasks
+# Current Tasks
 
 ### Weekly Digest 6, due: Sunday, March 8, 2026
 
@@ -20,12 +20,12 @@ If you have any questions about the sample quiz, I will go over them before the 
 <hr/>
 
 
-%### Project 2: Image denoising, due: Saturday, February 28, 2026
+### Project 3: Epidemic, due: Friday, March 27, 2026
 
-%Write a report on the [Image denoising](./projects/denoising/denoising.ipynb) project. 
-%For report guidelines and grading rubrics, see [Report Guide](report_guide.md). 
-%The Jupyter notebook  `ipynb` file with the report needs to be submitted to 
-%[UB Learns](https://ublearns.buffalo.edu/d2l/home).
+Write a report on the [Epidemic](./projects/epidemic/epidemic.ipynb) project. 
+For report guidelines and grading rubrics, see [Report Guide](report_guide.md). 
+The Jupyter notebook  `ipynb` file with the report needs to be submitted to 
+[UB Learns](https://ublearns.buffalo.edu/d2l/home).
 
 
 
