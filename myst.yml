@@ -54,9 +54,9 @@ project:
             - file: ./digests/digest_6.md
               hidden: true
         - file: ./schedule/week8/week8.ipynb
-          #children:
-          #  - file: ./schedule/week8/week8_notebook.ipynb
-          #    hidden: true
+          children:
+            - file: ./schedule/week8/week8_notebook.ipynb
+              hidden: true
             #- file: ./digests/digest_7.md
             #  hidden: true
     - title: Projects

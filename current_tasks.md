@@ -1,21 +1,19 @@
 # Current Tasks
 
-### Weekly Digest 6, due: Sunday, March 8, 2026
+### Weekly Digest
 
-Please complete the [Weekly Digest](https://forms.office.com/r/jsW0SzdKta) by the end of Sunday. 
+Due to the spring break, there is no weekly digest due this week. 
 
 <hr/>
 
-### Quiz 7: Tuesday, March 10, 2026
+### Quiz 8: Tuesday, March 24, 2026
 
-Quiz 7 will be given during the class on Tuesday. Here is a [sample quiz](./_static/quizzes/quiz7_sample.pdf).
+Quiz 8 will be given during the class on Tuesday. Here is a [sample quiz](./_static/quizzes/quiz8_sample.pdf).
 If you have any questions about the sample quiz, I will go over them before the real quiz on Tuesday.
 
 **What is covered:**
 
-- Loops: `break` and `continue`.
-- Boolean operators: `and`, `or`, `not`.
-- Random values.
+- String operations. 
 
 <hr/>
 
