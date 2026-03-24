@@ -59,8 +59,8 @@ project:
               hidden: true
         - file: ./schedule/week9/week9.ipynb
           children:
-            #- file: ./schedule/week9/week9_notebook.ipynb
-            #  hidden: true
+            - file: ./schedule/week9/week9_notebook.ipynb
+              hidden: true
         
     - title: Projects
       children:
