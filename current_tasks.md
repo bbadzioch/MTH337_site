@@ -17,18 +17,16 @@ Please complete the [Weekly Digest](https://forms.office.com/r/dyBR6z3tpP) by th
 
 <hr/>
 
-### Quiz 8: Tuesday, March 24, 2026
+### Quiz 8: Tuesday, March 31, 2026
 
-Quiz 8 will be given during the class on Tuesday. Here is a [sample quiz](./_static/quizzes/quiz8_sample.pdf).
+Quiz 8 will be given during the class on Tuesday. Here is a [sample quiz](./_static/quizzes/quiz9_sample.pdf).
 If you have any questions about the sample quiz, I will go over them before the real quiz on Tuesday.
-
-
-https://forms.office.com/r/dyBR6z3tpP
-
 
 **What is covered:**
 
-- String operations. 
+- Sets
+- Dictionaries
+- Requests
 
 
 
