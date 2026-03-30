@@ -61,6 +61,8 @@ project:
           children:
             - file: ./schedule/week9/week9_notebook.ipynb
               hidden: true
+            - file: ./digests/digest_7.md
+              hidden: true
         - file: ./schedule/week10/week10.ipynb
           children:
             #- file: ./schedule/week10/week10_notebook.ipynb
