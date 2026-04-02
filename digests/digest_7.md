@@ -20,7 +20,7 @@ Is there a way we can view our overall grade for this class?
 You can estimate it on your own. The final grade is based on 3 components: 
 project reports (75%), quizzes (15%), weekly digests (10%). Each component 
 will give you a letter grade. These letter grades will be converted to grade points
-(A+ = 4.0, A = 4.0, A- = 3.67 etc.), then I will compute their weighted average 
+(A+ = 4.33, A = 4.0, A- = 3.67 etc.), then I will compute their weighted average 
 using the above weights, and convert the resulting number back to a letter grade. 
 
 The project reports component is the average of letter grades from all projects 
