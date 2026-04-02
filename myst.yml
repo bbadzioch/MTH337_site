@@ -65,8 +65,8 @@ project:
               hidden: true
         - file: ./schedule/week10/week10.ipynb
           children:
-            #- file: ./schedule/week10/week10_notebook.ipynb
-            #    hidden: true        
+            - file: ./schedule/week10/week10_notebook.ipynb
+              hidden: true        
     - title: Projects
       children:
         - file: ./projects/collatz/collatz.ipynb
