@@ -24,7 +24,7 @@ If you have any questions about the sample quiz, I will go over them before the 
 
 Write a report on the [Text Attribution](./projects/text_attribution/text_attribution.ipynb) Project. 
 For report guidelines and grading rubrics, see [Report Guide](report_guide.md). 
-The Jupyter notebook  `ipynb` file with the report needs to be submitted to 
+The Jupyter notebook `ipynb` file with the report needs to be submitted to 
 [UB Learns](https://ublearns.buffalo.edu/d2l/home).
 
 
