@@ -9,13 +9,14 @@ Please complete the [Weekly Digest](https://forms.cloud.microsoft/r/jc5VzciHwq) 
 
 ### Quiz 10: Tuesday, April 7, 2026
 
-Quiz 10 will be given during the class on Tuesday. Sample quiz will be posted shortly. 
-% Here is a [sample quiz](./_static/quizzes/quiz9_sample.pdf).
+Quiz 10 will be given during the class on Tuesday. Here is a [sample quiz](./_static/quizzes/quiz10_sample.pdf).
 If you have any questions about the sample quiz, I will go over them before the real quiz on Tuesday.
 
-%**What is covered:**
-%
-%- Sets
+**What is covered:**
+
+- `enumerate`
+- `Counter`
+- list sorting
 
 <hr/>
 
