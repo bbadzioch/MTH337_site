@@ -8,6 +8,8 @@ For report guidelines and grading rubrics, see [Report Guide](report_guide.md).
 The Jupyter notebook `ipynb` file with the report needs to be submitted to 
 [UB Learns](https://ublearns.buffalo.edu/d2l/home).
 
+<hr/>
+
 
 ### Weekly Digest 9, due: Sunday, April 12, 2026
 
