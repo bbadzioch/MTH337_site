@@ -75,6 +75,7 @@ project:
               hidden: true
             - file: ./digests/digest_9.md
               hidden: true
+        - file: ./schedule/week12/week12.ipynb
   
     - title: Projects
       children:
