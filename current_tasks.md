@@ -22,7 +22,7 @@ Quiz 11 will be given during the class on Tuesday. Sample quiz will be posted so
 
 ### Project 5: First digits, last digits, due: Friday, April 24, 2026
 
-Write a report on the [First Digits, Last Digits](./projects/first_digits.ipynb) Project. 
+Write a report on the [First Digits, Last Digits](./projects/first_digits/first_digits.ipynb) Project. 
 For report guidelines and grading rubrics, see [Report Guide](report_guide.md). 
 The Jupyter notebook `ipynb` file with the report needs to be submitted to 
 [UB Learns](https://ublearns.buffalo.edu/d2l/home).
