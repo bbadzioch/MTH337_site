@@ -87,6 +87,8 @@ project:
         - file: ./projects/epidemic/epidemic.ipynb
         - file: ./projects/text_attribution/text_attribution.ipynb
         - file: ./projects/first_digits/first_digits.ipynb
+        - file: ./projects/bouncing_ball/bouncing_ball.ipynb
+          hidden: true
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
