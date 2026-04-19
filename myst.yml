@@ -79,6 +79,7 @@ project:
           children:
             - file: ./schedule/week12/week12_notebook.ipynb
               hidden: true
+        - file: ./schedule/week13/week13.ipynb
   
     - title: Projects
       children:
