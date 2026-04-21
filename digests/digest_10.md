@@ -149,8 +149,7 @@ What is the difference between Jupyter Notebook and Python Script?
 
 Python script is just code written in Python. Jupyter Notebook is 
 software that can be used to write, edit, and execute Python scripts. 
-Python scripts can be written and run without using Jupyter Notebook
-- there are many tools for that.
+Python scripts can be written and run without using Jupyter Notebook - there are many tools for that.
 
 
 ## Henry
