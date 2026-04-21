@@ -55,7 +55,7 @@ What’s the difference between using matplotlib directly vs. seaborn for plotti
 and do you have a preference when plotting?
 :::
 
-Seaborn is build on top of matplotlib. It provides an interface convenient 
+Seaborn is built on top of matplotlib. It provides an interface convenient 
 for working with pandas dataframes and similar objects. Everything that seaborn does 
 can be done directly with matplotlib, but it may take more work. 
 
