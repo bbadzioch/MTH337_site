@@ -18,17 +18,9 @@ Please complete the [Weekly Digest](https://forms.cloud.microsoft/r/KPbdUhVpYK) 
 <hr/>
 
 
-%### Quiz 12: Tuesday, April 21, 2026
+### Quiz
 
-%Quiz 11 will be given during the class on Tuesday. Here is a [sample quiz](./_static/quizzes/quiz12_sample.pdf).
-%If you have any questions about the sample quiz, I will go over them before the real quiz on Tuesday.
-
-%**What is covered:**
-
-%- regular expressions
-
-
-
+There will be no quiz Tuesday, April 28.
 
 
 <hr/>
