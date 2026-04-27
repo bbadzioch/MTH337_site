@@ -85,6 +85,9 @@ project:
           children:
             - file: ./schedule/week13/week13_notebook.ipynb
               hidden: true
+            - file: ./digests/digest_11.md 
+              hidden: true
+        - file: ./schedule/week14/week14.ipynb
   
     - title: Projects
       children:
@@ -94,7 +97,6 @@ project:
         - file: ./projects/text_attribution/text_attribution.ipynb
         - file: ./projects/first_digits/first_digits.ipynb
         - file: ./projects/bouncing_balls/bouncing_balls.ipynb
-          hidden: true
     - title: Useful Links
       children:
         - url: https://piazza.com/buffalo/spring2026/mth337b/home
